@@ -299,7 +299,7 @@ FLASK_ENV=production                    # Enforces strict security checks
 
 # License
 
-This project is intended for **educational and research purposes**.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 © 2026 RB1507
 
