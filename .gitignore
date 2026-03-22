@@ -1,0 +1,10 @@
+.env
+keys/
+uploads/
+downloads/
+integrity/
+__pycache__/
+*.pyc
+client_config.json
+server.log
+*.log
