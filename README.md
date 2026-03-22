@@ -301,6 +301,6 @@ FLASK_ENV=production                    # Enforces strict security checks
 
 This project is intended for **educational and research purposes**.
 
-© 2024 RB1507
+© 2026 RB1507
 
 Security implementations should be reviewed and hardened before deployment in production environments.
